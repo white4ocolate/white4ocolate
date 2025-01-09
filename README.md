@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Yurii
 
-I’m an iOS Developer with over 2.5 years of experience building user-friendly, reliable, and high-performance mobile applications. My passion is creating apps that solve real-world problems and delight users.
+I’m an iOS Developer with 3 years of experience building user-friendly, reliable, and high-performance mobile applications. My passion is creating apps that solve real-world problems and delight users.
 
 ## 🔧 Skills:
 - UIKit, SwiftUI, AutoLayout
