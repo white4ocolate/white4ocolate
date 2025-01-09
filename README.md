@@ -18,4 +18,4 @@ I’m an iOS Developer with 3 years of experience building user-friendly, reliab
 - Continuously improving my code and learning new tools and technologies.
 
 ## 📫 How to reach me:
-<a href="https://www.linkedin.com/in/yurii-morozov-ios/">LinkedIn</a> | <a href="https://t.me/white_4ocolate">Telegram</a> | <a href="mailto:morozovyuriy11@gmail.com">Email</a>
+<a target="_blank" href="https://www.linkedin.com/in/yurii-morozov-ios/">LinkedIn</a> | <a target="_blank" href="https://t.me/white_4ocolate">Telegram</a> | <a target="_blank" href="mailto:morozovyuriy11@gmail.com">Email</a>
